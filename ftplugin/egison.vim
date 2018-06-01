@@ -14,6 +14,7 @@ setlocal lispwords=test,define,execute,lambda,match,match-all
 setlocal lispwords+=function,let,letrec,do,type,macro
 setlocal lispwords+=matcher,algebraic-data-matcher,pattern-constructor
 setlocal lispwords+=assert,assert-equal
+setlocal lispwords+=with-symbols
 setlocal comments=:;;;,:;;,:;,sr:#\|,mb:\|,ex:\|#
 setlocal define=^\\s*(def\\k*
 setlocal matchpairs+=<:>
